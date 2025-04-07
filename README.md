@@ -1,5 +1,8 @@
 # Bombolo App
 
+ <a href="https://github.com/micpob/Bombolo-App/releases/download/v1.0/bombolo_app.apk"><img src="Docs/button_download-apk.png" alt="Download Bombolo app APK file" width="200px"></a>
+<br>
+
 This was the first project I completed. It is an Android app made as a tribute to one of the greatest actors of Italian comedy movies, 
 Franco Lechner, AKA [Bombolo](https://en.wikipedia.org/wiki/Bombolo).  
 
@@ -22,14 +25,10 @@ There are around 20 audio samples and 10 different pictures in the app.
 </div>
 <br>
 
-The app could not be published to the Play Store because of copyright concerns with the images used, but you can download it directly from this link:  
-
-https://www.micpob.com/bombolo_app/bombolo_app.apk  
-
-You can also download it by scanning the QR code below:
+You can also download the app by scanning the QR code below:
 
 <br>
-<img src="Docs/bombolo_app_QR_code.png" width="200" height="200" alt="Bombolo App download QR code">
-<br>  
-
-This is a simple project, but nonetheless I learned some useful lessons while building it, especially in regard to **audio and graphic assets** management.
+<div align="center">
+  <img src="Docs/bombolo_app_APK_donwload.png" width="200" height="200" alt="Bombolo App download QR code">
+</div>  
+<br> 
