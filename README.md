@@ -32,3 +32,5 @@ You can also download the app by scanning the QR code below:
   <img src="Docs/bombolo_app_APK_donwload.png" width="200" height="200" alt="Bombolo App download QR code">
 </div>  
 <br> 
+
+**Made with**: MIT App Inventor
